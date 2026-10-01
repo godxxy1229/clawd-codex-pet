@@ -1,5 +1,5 @@
 {
-  "api_png_sha256": "7ac3768547aa95af6b29820ccbfb407f5605596f935d9baf203338c6bb947a19",
+  "api_png_sha256": "910b0c6817ab8e61c743920138362a646a89b9886360c385434043913a66f687",
   "api_preflight_valid": true,
   "rebuild_rgba_matches": true,
   "website_lossless_animation_pixels_match": true,
@@ -11,5 +11,33 @@
     1536,
     2288
   ],
-  "animation_cells": 73
+  "animation_cells": 73,
+  "jump_lift_pixels": [
+    0,
+    36,
+    48,
+    36,
+    0
+  ],
+  "landing_upper_body_drop_px": 2,
+  "idle_fourth_frame_eye_height_fraction": 0.8,
+  "changed_cells": [
+    {
+      "row": 0,
+      "frame": 3
+    },
+    {
+      "row": 4,
+      "frame": 1
+    },
+    {
+      "row": 4,
+      "frame": 3
+    },
+    {
+      "row": 4,
+      "frame": 4
+    }
+  ],
+  "all_other_cells_identical": true
 }
