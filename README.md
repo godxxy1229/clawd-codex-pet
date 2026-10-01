@@ -4,9 +4,9 @@ A calm SVG-crafted Clawd companion with nine animation states and sixteen look d
 
 ## Quick install
 
-[![Install in Codex](assets/install-in-codex.svg)](https://codex-pets.net/#/pets/clawd-svg)
+[![View on Codex Pets](assets/codex-pets.svg)](https://codex-pets.net/#/pets/clawd-svg)
 
-Open Clawd's page with the button above, then choose **Install in Codex**.
+Visit Clawd on Codex Pets to preview the animations and choose an installation option.
 
 Or run this command in your terminal (requires Node.js and npm):
 

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="208" height="44" viewBox="0 0 208 44" role="img" aria-labelledby="title">
-  <title id="title">Install in Codex</title>
-  <rect x="0.5" y="0.5" width="207" height="43" rx="22" fill="#17150f" stroke="#494238"/>
-  <path d="m23 16 6 6-6 6m11 0h9" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="56" y="27" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">Install in Codex</text>
-</svg>
