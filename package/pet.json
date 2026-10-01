@@ -1,7 +1,7 @@
 {
   "id": "clawd-svg",
   "displayName": "Clawd",
-  "description": "A calm SVG-crafted Clawd companion inspired by Claude, with playful reactions, keyboard typing, and a focused magnifying-glass review. Clawd character copyright belongs to Anthropic (https://www.anthropic.com). Unofficial fan adaptation. Project: https://github.com/godxxy1229/clawd-codex-pet",
+  "description": "A calm SVG-crafted Clawd inspired by Claude, with keyboard typing and magnifying-glass reviews. Clawd character copyright belongs to Anthropic (https://www.anthropic.com). Unofficial fan adaptation. Project: https://github.com/godxxy1229/clawd-codex-pet",
   "spritesheetPath": "spritesheet.webp",
   "spriteVersionNumber": 2,
   "kind": "creature"
