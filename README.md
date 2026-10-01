@@ -2,6 +2,8 @@
 
 A calm SVG-crafted Clawd companion with nine animation states and sixteen look directions.
 
+[View and install on Codex Pets](https://codex-pets.net/#/pets/clawd-svg).
+
 ![Clawd animations](previews/all-states.gif)
 
 - Gentle breathing, blinking, walking, waving, jumping, and expressive reactions.
