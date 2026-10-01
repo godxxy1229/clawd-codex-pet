@@ -1,0 +1,8 @@
+{
+  "id": "clawd-svg",
+  "displayName": "Clawd",
+  "description": "A calm SVG-crafted Clawd companion with playful reactions, alternating keyboard taps, and a focused magnifying-glass review. Fan adaptation of Clawd on Desk. Source: https://github.com/godxxy1229/clawd-codex-pet",
+  "spritesheetPath": "spritesheet.webp",
+  "spriteVersionNumber": 2,
+  "kind": "creature"
+}

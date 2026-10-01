@@ -1,0 +1,8 @@
+{
+  "name": "clawd-codex-pet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SVG-crafted Clawd animation assets for Codex Pets",
+  "scripts": { "build": "node build.cjs" },
+  "dependencies": { "sharp": "0.35.4" }
+}
