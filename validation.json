@@ -1,5 +1,5 @@
 {
-  "api_png_sha256": "910b0c6817ab8e61c743920138362a646a89b9886360c385434043913a66f687",
+  "api_png_sha256": "141cb2d857993bf09ed84944ddee1285c95a0bdbb42d249d397697435d50b645",
   "api_preflight_valid": true,
   "rebuild_rgba_matches": true,
   "website_lossless_animation_pixels_match": true,
@@ -19,25 +19,79 @@
     36,
     0
   ],
-  "landing_upper_body_drop_px": 2,
+  "landing_upper_body_drop_px": 6,
   "idle_fourth_frame_eye_height_fraction": 0.8,
   "changed_cells": [
     {
-      "row": 0,
-      "frame": 3
-    },
-    {
-      "row": 4,
+      "row": 3,
       "frame": 1
     },
     {
-      "row": 4,
-      "frame": 3
+      "row": 3,
+      "frame": 2
     },
     {
       "row": 4,
+      "frame": 4,
+      "total_upper_body_drop_px": 6,
+      "additional_drop_px": 4,
+      "eye_height_fraction": 0.5,
+      "foot_baseline_preserved": true
+    },
+    {
+      "row": 5,
+      "frame": 2,
+      "eyes_only": true
+    },
+    {
+      "row": 5,
+      "frame": 3,
+      "eyes_only": true
+    },
+    {
+      "row": 5,
+      "frame": 4,
+      "eyes_only": true
+    },
+    {
+      "row": 5,
+      "frame": 5,
+      "eyes_only": true
+    },
+    {
+      "row": 5,
+      "frame": 6,
+      "eyes_only": true
+    },
+    {
+      "row": 6,
+      "frame": 1
+    },
+    {
+      "row": 6,
+      "frame": 2
+    },
+    {
+      "row": 6,
+      "frame": 3
+    },
+    {
+      "row": 6,
       "frame": 4
     }
   ],
-  "all_other_cells_identical": true
+  "all_other_cells_identical": true,
+  "landing_eye_height_fraction": 0.5,
+  "oops_upper_edge_height_differences_px": [
+    0,
+    0,
+    0.6,
+    2.6,
+    4,
+    4,
+    1.8,
+    0
+  ],
+  "greeting_and_waiting_max_upper_body_translation_px": 3,
+  "greeting_and_waiting_max_tilt_degrees": 3
 }
