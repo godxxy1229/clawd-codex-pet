@@ -1,5 +1,5 @@
 {
-  "api_png_sha256": "6e8948a8be491ec2334d6428984ad9a8cdc4a036416f7a70a569260f42d56c17",
+  "api_png_sha256": "188a1b2d15d3d76c7e8c59160efcf8f681508ec466884e199f4a022b207d081e",
   "api_preflight_valid": true,
   "rebuild_rgba_matches": true,
   "website_lossless_animation_pixels_match": true,
@@ -24,33 +24,15 @@
   "changed_cells": [
     {
       "row": 4,
-      "frame": 3,
-      "eyes_only": true,
-      "eye_height_fraction": 0.6,
-      "landing_drop_px_preserved": 6
-    },
-    {
-      "row": 4,
-      "frame": 4,
-      "eyes_only": true,
-      "eye_height_fraction": 0.8,
-      "landing_drop_px_preserved": 6
-    },
-    {
-      "row": 6,
       "frame": 1
     },
     {
-      "row": 6,
+      "row": 4,
       "frame": 2
     },
     {
-      "row": 6,
+      "row": 4,
       "frame": 3
-    },
-    {
-      "row": 6,
-      "frame": 4
     }
   ],
   "all_other_cells_identical": true,
@@ -74,7 +56,15 @@
     0.8,
     1,
     1,
-    0.6,
+    1,
     0.8
-  ]
+  ],
+  "jump_outward_foot_tip_shift_px": [
+    0,
+    6,
+    9,
+    6,
+    0
+  ],
+  "jump_leg_horizontal_width_px": 10
 }
