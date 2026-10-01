@@ -25,6 +25,6 @@ With Node.js installed, run `npm install`, then `npm run build`. Outputs go to `
 
 ## Credits and rights
 
-Adapted from [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk/tree/75976f51c275f974edfa995da205c4124860b44a/assets/svg), including its typing and debugger references. Clawd belongs to Anthropic; this is an unofficial fan adaptation.
+Clawd character copyright belongs to [Anthropic](https://www.anthropic.com). This is an unofficial fan adaptation, not affiliated with or endorsed by Anthropic.
 
-The upstream artwork is **All Rights Reserved**, restricts commercial use and redistribution, and is not covered by the upstream code license. See [ARTWORK-NOTICE.txt](ARTWORK-NOTICE.txt). This repository grants no additional artwork rights.
+The artwork is **All Rights Reserved**. See [ARTWORK-NOTICE.txt](ARTWORK-NOTICE.txt) for usage restrictions. This repository grants no additional character or artwork rights.
