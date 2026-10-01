@@ -1,7 +1,7 @@
 {
   "id": "clawd-svg",
   "displayName": "Clawd",
-  "description": "An unofficial Claude-inspired companion for Codex. Clawd character copyright: Anthropic (https://www.anthropic.com).",
+  "description": "An unofficial Claude-inspired companion for Codex. https://github.com/godxxy1229/clawd-codex-pet",
   "spritesheetPath": "spritesheet.webp",
   "spriteVersionNumber": 2,
   "kind": "creature"
