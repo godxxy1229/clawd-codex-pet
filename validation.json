@@ -1,5 +1,5 @@
 {
-  "api_png_sha256": "1ee84ef87bee909f8704e320f05f95ad3d598eec4fc93a2dcfac0c0210a9a148",
+  "api_png_sha256": "e2670ee611b532958666904800ee98b58318c5db832a82e3c323c75d046bd0a5",
   "api_preflight_valid": true,
   "rebuild_rgba_matches": true,
   "website_lossless_animation_pixels_match": true,
@@ -22,54 +22,6 @@
   "landing_upper_body_drop_px": 6,
   "idle_fourth_frame_eye_height_fraction": 0.8,
   "changed_cells": [
-    {
-      "row": 1,
-      "frame": 1
-    },
-    {
-      "row": 1,
-      "frame": 2
-    },
-    {
-      "row": 1,
-      "frame": 3
-    },
-    {
-      "row": 1,
-      "frame": 5
-    },
-    {
-      "row": 1,
-      "frame": 6
-    },
-    {
-      "row": 1,
-      "frame": 7
-    },
-    {
-      "row": 2,
-      "frame": 1
-    },
-    {
-      "row": 2,
-      "frame": 2
-    },
-    {
-      "row": 2,
-      "frame": 3
-    },
-    {
-      "row": 2,
-      "frame": 5
-    },
-    {
-      "row": 2,
-      "frame": 6
-    },
-    {
-      "row": 2,
-      "frame": 7
-    },
     {
       "row": 4,
       "frame": 1
@@ -122,5 +74,6 @@
     14,
     0
   ],
-  "walking_max_raised_sole_angle_degrees": 12
+  "walking_max_raised_sole_angle_degrees": 0,
+  "walking_rows_pixel_identical_to_baseline": true
 }
