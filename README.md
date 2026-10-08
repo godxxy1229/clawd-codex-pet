@@ -2,7 +2,7 @@
 
 An unofficial Claude-inspired companion for Codex.
 
-[![View on Codex Pets](assets/codex-pets.svg)](https://codex-pets.net/#/pets/clawd-svg)
+[![Codex Pets](https://img.shields.io/badge/Codex%20Pets-Clawd-ef9f76?style=for-the-badge)](https://codex-pets.net/#/pets/clawd-svg)
 
 ## Install
 
